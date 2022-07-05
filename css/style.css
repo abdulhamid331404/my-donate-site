@@ -1,0 +1,117 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+}
+h1{
+    font-size: 50px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px;
+    background-color: #FF5959;
+    color: white;
+    border-radius: 10px;
+}
+.header-part{
+    background-image: url(/images/donation001.jpg);
+   background-repeat: no-repeat;
+   margin-top: 0;
+   height: 700px;
+   margin-bottom: 80px;
+}
+.header-text{
+    text-align: center;
+    margin-top: 50px;
+    color:white;
+    background-color: rgba(2, 2, 2, 0.156);
+    height: 676px;
+}
+.donate-info{
+    text-align: center;
+}
+.donate-btn{
+ margin-left: 550px;
+ margin-bottom: 50px;
+}
+.amount-menu{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.amount{
+    height: 50px;
+    width: 50px;
+    background-color: aliceblue;
+    padding: 25px;
+    margin-left: 70px;
+    margin: 0 auto;
+    border-radius: 4px;
+}
+.selected-amount{
+    border: 2px solid orangered;
+    background-color: #ff595940;
+    color: orangered;
+}
+.amount-taka{
+    text-align: center;
+}
+.amount-underline{
+    border-bottom: 2px solid grey;
+    width: 40%;
+    margin: 0 auto;
+}
+.today-donate{
+    margin-bottom: 50px;
+}
+.donation-example{
+    display: flex;
+    padding: 3%;
+}
+.food-family{
+    width: 30%;
+    height: 250px;
+    background-color: #4f9da6b7;
+    padding: 2%;
+    border-radius: 10px;
+}
+.shelter-family{
+    width: 30%;
+    height: 250px;
+    background-color: #ff59598e;
+    padding: 2%;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.education-child{
+    width: 30%;
+    height: 250px;
+    background-color: burlywood;
+    padding: 2%;
+    margin-left: 10px; 
+    border-radius: 10px;
+}
+.donationg-document{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-top: 50px;
+    padding: 10px;
+}
+.half-width img{
+    width: 100%;
+    border-radius: 5px;
+}
+.donars-words{
+    height: 200px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+span{
+    font-size: 30px;
+    margin-left: 5%;
+}
+.donar-motivate{
+    text-align: center;
+    color: #640a0a;
+}
